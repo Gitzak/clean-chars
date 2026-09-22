@@ -1,5 +1,7 @@
 # CleanChars
 
+<img width="693" height="666" alt="clean-chars-extention-vs-code" src="https://github.com/user-attachments/assets/04756317-fedf-45ee-9d35-5838f9fcf2e2" />
+
 CleanChars is a lightweight Visual Studio Code extension for detecting and cleaning suspicious typography characters in your workspace.
 
 It helps catch characters that often look harmless in code reviews, docs, prompts, configuration files, or copied text, but can cause formatting issues, syntax errors, broken commands, or inconsistent output.
