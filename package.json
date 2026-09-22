@@ -1,6 +1,8 @@
 {
   "name": "clean-chars",
   "displayName": "CleanChars",
+  "publisher": "ZakDev",
+  "icon": "resources/clean-chars.png",
   "description": "Detect and clean suspicious Unicode characters in your code",
   "version": "0.0.1",
   "license": "MIT",
