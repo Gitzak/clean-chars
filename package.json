@@ -3,6 +3,11 @@
   "displayName": "CleanChars",
   "description": "Detect and clean suspicious Unicode characters in your code",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitzak/clean-chars.git"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
