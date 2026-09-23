@@ -1,6 +1,6 @@
 # CleanChars
 
-<img width="693" height="666" alt="clean-chars-extention-vs-code" src="https://github.com/user-attachments/assets/04756317-fedf-45ee-9d35-5838f9fcf2e2" />
+![CleanChars VS Code extension](clean-chars-extention-vs-code.png)
 
 CleanChars is a lightweight Visual Studio Code extension for detecting and cleaning suspicious typography characters in your workspace.
 
@@ -34,7 +34,6 @@ CleanChars currently detects common smart typography characters and replaces the
 | `…` | Ellipsis | `...` |
 
 The extension also detects several mojibake variants that appear when UTF-8 text has been decoded incorrectly.
-
 ## Usage
 
 1. Open a folder in VS Code.
